@@ -46,12 +46,12 @@ extern "C" {
 #define BLOG_STR_(a,b,c) a#b#c
 #define BLOG_STR(a,b) a b"\n"
 
-#define LOG_NOW LOG_DBG
+#define LOG_NOW	LOG_DBG
 #define LOG_DBG	20
 #define LOG_INF	40
 #define LOG_NOT	60
 #define LOG_WAR	80
-#define LOG_ERR 100
+#define LOG_ERR	100
 #define LOG_FAT	120
 
 #if (LOG_NOW<=LOG_FAT)
