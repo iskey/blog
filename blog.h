@@ -1,3 +1,41 @@
+/******************************************************************************
+
+           This is Iskey.
+
+ ******************************************************************************/
+/**
+ * @file    blog.h
+ * @brief   simpe blog macros for C.
+ * @author  iskey@outlook.com
+ * @version Initial Draft
+ * @note    none
+ * @date    2013/10/31
+ */
+/******************************************************************************
+ *  Function List :
+ *  History       :
+ *  1.Date        : 2013/10/31
+ *    Author      : iskey
+ *    Modification: Created file
+ *
+******************************************************************************/
+
+/** external variables */
+
+/** external routine prototypes */
+
+/** internal routine prototypes */
+
+/** project-wide global variables */
+
+/** module-wide global variables */
+
+/** constants */
+
+/** macros */
+
+/** routines' implementations */
+
 #ifndef __B__LOG__
 #define __B__LOG__
 
